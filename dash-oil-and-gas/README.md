@@ -1,7 +1,7 @@
 # Windows
 
 git clone https://github.com/johnnysdc/dash-sample-apps-simple.git
-cd dash-sample-apps/apps/dash-oil-and-gas
+cd dash-sample-apps-simple/dash-oil-and-gas
 python -m venv .env
 .env\Scripts\activate
 python -m pip install --upgrade pip
